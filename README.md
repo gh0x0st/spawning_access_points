@@ -34,7 +34,7 @@ tristram@kali:~$ sudo apt install hostapd
 ```
 interface=wlan0
 ssid=InfoSec-Test
-channel=11
+channel=6
 driver=nl80211
 hw_mode=g
 ```
