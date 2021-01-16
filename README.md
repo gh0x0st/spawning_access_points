@@ -1,6 +1,12 @@
 # Spawning access points using Kali Linux
 Wireless networks are built for convenience and have historically been torn apart by hackers and security researchers. Over time, we've seen the technologies change between WEP, WPA and WPA2, but the one thing that hasn't changed much is the human interaction factor. We all know the risks that come with free or open Wi-Fi, but do your end users? 
 
+## Disclaimer
+
+This repository and the data provided has been created purely for the purposes of academic research and for the development of effective security techniques and is not intended to be used to attack systems except where explicitly authorized. It is your responsibility to obey all applicable local, state and federal laws. 
+
+Project maintainers assume no liability and are not responsible for any misuse or damage caused by the data therein.
+
 ## Objectives
 What I'm going to walk you through is how you can turn that extra computer that's laying around into a mobile access point that you can use to perform security awareness exercises for your staff, or even a penetration test.
 
